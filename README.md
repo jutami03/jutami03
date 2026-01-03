@@ -1,4 +1,4 @@
-<h1 align="center">Oiee, sou a Juliana Kanashiro 💫</h1>
+<h1 align="center">Oi, sou a Juliana Kanashiro 💫</h1>
 <h3 align="center">Estudo Sistemas de Informação na Fiap, e estou em busca de novos conhecimentos e experiências na área!</h3>
 
 <p align="left">
